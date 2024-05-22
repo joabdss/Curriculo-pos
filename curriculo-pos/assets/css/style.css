@@ -1,0 +1,27 @@
+#stylegray {
+    background-color: gray;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-bottom: 3%;
+    margin-top: 3%;
+    text-align: center;
+    border-style: double;
+    border-radius: 2%;
+}
+
+#stylefoot {
+    background-color: gray;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-bottom: 3%;
+    margin-top: 3%;
+    text-align: center;
+}
+
+.bori {
+    background-color: rgb(230, 228, 226);
+}
+
+#caixote-cinza {
+    background-color: rgb(155, 155, 155); 
+    border-style: double; 
+    border-radius: 2%;
+}
